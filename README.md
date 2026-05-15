@@ -12,7 +12,7 @@ The project focuses on:
 * Accuracy evaluation
 * Predictive system creation
 
-Repository: urlGitHub Repository[https://github.com/Pulkit-barola/Diabatics_predication_analysis_ML_Project](https://github.com/Pulkit-barola/Diabatics_predication_analysis_ML_Project)
+Repository: GitHub Repository[https://github.com/Pulkit-barola/Diabatics_predication_analysis_ML_Project](https://github.com/Pulkit-barola/Diabatics_predication_analysis_ML_Project)
 
 ---
 
